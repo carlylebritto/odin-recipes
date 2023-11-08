@@ -1,0 +1,35 @@
+.homepage-image {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.odin-title {
+    text-align: center;
+    font-family: 'Sigmar One', Courier, monospace;
+}
+
+.box {
+    background: rgb(253, 236, 193);
+    border-radius: 50px;
+    padding: 20px;
+    margin: auto;
+    display: block;
+    width: 400px;
+    height: auto;
+    text-align: center;
+}
+/* how does this work? */
+.bullets{
+    display: inline-block;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Sigmar One', Courier, monospace;
+}
+
+/* Use this to visualize all your boxes */
+/* * {
+    border: 2px solid red;
+    box-sizing: border-box;
+} */
